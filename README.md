@@ -91,10 +91,10 @@ esperanca-viva/
 
 ## 🚀 Deploy e Acesso
 🌐 **Site publicado:**  
-👉 [https://paulorj33.github.io/atividade4-esperanca-viva/](https://paulorj33.github.io/atividade4-esperanca-viva/)
+👉 [https://paulorj33.github.io/atividade4-esperanca-viva/](https://paulorj33.github.io/atividade4-esperanca-viva/]
 
 🔗 **Repositório no GitHub:**  
-👉 [https://github.com/paulorj33/atividade4-esperanca-viva](https://github.com/paulorj33/atividade4-esperanca-viva)
+👉 [https://github.com/paulorj33/atividade4-esperanca-viva](https://github.com/paulorj33/atividade4-esperanca-viva]
 
 ---
 
